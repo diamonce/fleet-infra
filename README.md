@@ -23,7 +23,6 @@ kind_cluster.this: Still creating... [2m20s elapsed]
 kind_cluster.this: Still creating... [2m30s elapsed]
 kind_cluster.this: Still creating... [2m40s elapsed]
 kind_cluster.this: Creation complete after 2m41s [id=flux-e2e-]
-```
 flux_bootstrap_git.this: Creating...
 flux_bootstrap_git.this: Still creating... [10s elapsed]
 flux_bootstrap_git.this: Still creating... [20s elapsed]
